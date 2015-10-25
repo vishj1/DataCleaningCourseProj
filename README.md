@@ -1,7 +1,7 @@
 # DataCleaningCourseProj
 Data Cleaning course  project
 This explains how the run analysis code works. 
-The rin_analyssis functionality is orgnanized as the following sesctions
+The run_analyssis functionality is orgnanized as the following sesctions
 1. Reading the input test data
    Test data is successfully read using read_table.
    Colummn names of x_data_set are set with feature names, as they represent each feature function the executed during test.
